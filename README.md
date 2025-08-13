@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayesha Malik</h1>
-<h3 align="center">A passionate frontend developer from Pakistan.</h3>
+<h3 align="center">A passionate Data Analyst from Pakistan.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?q=Animated%20Coding%20GIF%20girl&imgurl=https%3A%2F%2Fcdn.dribbble.com%2Fuserupload%2F8046474%2Ffile%2Foriginal-1de7a34e8dfb6d1b9723e77458786c81.gif&imgrefurl=https%3A%2F%2Fdribbble.com%2Fshots%2F21824398-Lottie-Animation-Woman-working-on-laptop&docid=I4HCt12WWLHlEM&tbnid=KJK1nWKn-gwEpM&vet=12ahUKEwin2fvV-oqIAxXnB9sEHSgsD1UQM3oECBcQAA..i&w=2500&h=1400&hcb=2&ved=2ahUKEwin2fvV-oqIAxXnB9sEHSgsD1UQM3oECBcQAA">
 
